@@ -21,7 +21,7 @@ dislike(video)
 add_comment(video,"Sireen","My Experience")
 print(video)
 
-for i in range(495):
+for i in range(494):
 	like(video)
 
-prit(video)
+print(video)
